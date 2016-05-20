@@ -1,1 +1,2 @@
-# OLO-iOS
+# OLO-iOS 
+Online Ordering iOS App
